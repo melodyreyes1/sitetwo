@@ -1,0 +1,97 @@
+@charset "UTF-8";
+body {
+	padding: 0;
+	margin: 0;	
+}
+img {position: absolute}
+.gif{
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 2048px;
+  height: 2048px;
+  z-index: 1;
+}
+
+
+.correct {
+  left: 945.5px;
+  top: 1065.767px;
+  z-index: 9;
+}
+
+
+.wrong1 {
+  left: 360px;
+  top: 1592.767px;
+  z-index: 2;
+}
+.wrong2{
+  left: 322px;
+  top: 162.767px;
+  z-index: 3;
+}
+
+.wrong3{
+  left: 1885px;
+  top: 294.767px;
+  z-index: 4;
+}
+
+.wrong4{
+  left: 801px;
+  top: 1728.767px;
+  z-index: 5;
+}
+
+.wrong5{
+  position: absolute;
+  left: 377px;
+  top: 1186.767px;
+  z-index: 6;
+}
+
+.wrong6{
+  left: 1478px;
+  top: 184.767px;
+  z-index: 7;
+}
+
+.wrong7{
+  left: 874px;
+  top: 151.267px;
+  z-index: 8;
+}
+
+.wrong9{
+  left: 1562px;
+  top: 610.767px;
+  z-index: 10;
+}
+
+.wrong10{
+  left: 935px;
+  top: 769px;
+  z-index: 11;
+}
+
+.wrong11{
+  left: 415px;
+  top: 221.767px;
+  z-index: 12;
+}
+
+.wrong12{
+  left: 508px;
+  top: 538.767px;
+  z-index: 13;
+}
+
+.wrong13{
+  position: absolute;
+  left: 1792px;
+  top: 1113.767px;
+  z-index: 14;
+}
+
+	
